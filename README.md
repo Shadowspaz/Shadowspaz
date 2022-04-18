@@ -1,4 +1,8 @@
-### Hi there 👋
+## Welcome to my github page!
+
+This portfolio contains all the little things that don't end up as finished games or NDA-protected content. Some of these projects _do_ feed into games, but a lot of them are just curious expeditions into other fields of programming.
+
+My current side-projects are mostly focused around AI and neural networks, so you can expect to see more activity on those repos.
 
 <!--
 **Shadowspaz/Shadowspaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
